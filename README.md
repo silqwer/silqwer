@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">안녕하세요? 8년차 웹 개발자 silqwer 입니다. 👨‍💻 </div>  
+### <div align="center">안녕하세요? 9년차 웹 개발자 silqwer 입니다. 👨‍💻 </div>  
   
 ### 🛠️ Skill 
 
