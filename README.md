@@ -1,4 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Frontend%20developer%20👨‍💻&fontColor=fff&desc=사용자와%20직접%20대화할%20수%20있는%20매력적인%20웹%20페이지를%20만드는%20것을%20좋아합니다.&descAlignY=50&descAlign=50&fontAlignY=30)
+
+
+<div align="right">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsilqwer%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
+  </a>
+</div>
   
 ### 🛠️ Skill 
 
