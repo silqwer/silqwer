@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-### <div align="center">안녕하세요? 9년차 웹 개발자 silqwer 입니다. 👨‍💻 </div>  
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Frontend%20developer%20👨‍💻&fontColor=fff&desc=사용자와%20직접%20대화할%20수%20있는%20매력적인%20웹%20페이지를%20만드는%20것을%20좋아합니다.&descAlignY=50&descAlign=50&fontAlignY=30)
   
 ### 🛠️ Skill 
 
@@ -34,3 +30,5 @@
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&fontColor=fff&descAlignY=67&descAlign=50&section=footer)
