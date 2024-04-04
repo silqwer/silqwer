@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Frontend%20developer%20👨‍💻&fontColor=fff&desc=사용자와%20직접%20대화할%20수%20있는%20매력적인%20웹%20페이지를%20만드는%20것을%20좋아합니다.&descAlignY=50&descAlign=50&fontAlignY=30)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Frontend%20developer%20👨‍💻&fontColor=fff&desc=사용자와%20직접%20대화할%20수%20있는%20매력적인%20웹%20페이지를%20만드는%20것을%20좋아합니다.&descAlignY=50&descAlign=50&fontAlignY=30" width="100%" />
 
 
 <div align="right">
@@ -6,7 +6,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsilqwer%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
   </a>
 </div>
-  
+
 ### 🛠️ Skill 
 
 #### Front-end
@@ -38,4 +38,18 @@
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&fontColor=fff&descAlignY=67&descAlign=50&section=footer)
+### 📊 Status
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silqwer&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=151515&icon_color=79ff97&text_color=9f9f9f&title_color=fff&count_private=true&exclude_repo=Face-Transfer-Application&hide_border=false" width="38%" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=silqwer&show_icons=true&theme=material-palenight&hide_border=true&bg_color=151515&icon_color=79ff97&text_color=9f9f9f&title_color=fff&count_private=true&hide_border=false" width="56%" />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=silqwer&theme=react-dark&bg_color=151515&hide_border=true&line=79ff97&color=9f9f9f" width="100%" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&fontColor=fff&descAlignY=67&descAlign=50&section=footer" width="100%" />
+
